@@ -1,0 +1,22 @@
+In Tableau, multiple users can access the same dashboard or workbook through Tableau Server or Tableau Online. Here's a more detailed explanation of how multiple users can access Tableau:
+
+Tableau Server or Tableau Online: Tableau Server is an on-premises solution, while Tableau Online is a cloud-based solution. Both of these options allow you to publish and share Tableau workbooks and dashboards with others.
+
+Publish Workbooks: After creating your dashboards and workbooks using Tableau Desktop, you can publish them to Tableau Server or Tableau Online. Publishing makes the dashboards accessible to other users who have access to the Tableau Server or Tableau Online environment.
+
+Create a Site: Within Tableau Server or Tableau Online, you can organize users into different sites. Sites are like workspaces that help you group users based on projects, departments, or any other criteria.
+
+Add Users to the Site: As an administrator or a user with the appropriate permissions, you can add other Tableau Server or Tableau Online users to the site. To do this, follow these steps:
+
+a. Access the Tableau Server or Tableau Online admin interface.
+b. Navigate to the site where you want to add users.
+c. Select "Users" or "Groups" (if users are organized into groups).
+d. Use the "Add Users" or "Add Group" option to add existing users to the site or create a new group and add users to it.
+
+Assign Permissions: Once users are added to the site, you can assign them specific permissions based on their role and requirements. You can control whether users have the ability to view, interact, or modify the dashboards and data sources.
+
+Access Dashboards: After users have been added to the site and given appropriate permissions, they can log in to Tableau Server or Tableau Online using their credentials. They will be able to access the dashboards and workbooks that have been shared with them.
+
+Collaboration and Interactivity: Multiple users can now simultaneously access and interact with the same dashboard. They can apply filters, drill down into data, and perform analyses based on their needs. The changes made by one user may be visible to others, depending on the interactivity settings and the type of data source being used.
+
+By setting up Tableau Server or Tableau Online with appropriate permissions and access controls, organizations can enable seamless collaboration, data sharing, and data-driven decision-making among their teams and stakeholders. This makes Tableau a powerful tool for business intelligence and data visualization in real-world applications.
